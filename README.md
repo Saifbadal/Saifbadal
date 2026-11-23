@@ -31,7 +31,7 @@ I'm a Computer Science and Engineering graduate currently pursuing an **M.Tech i
 
 | Area | Technologies and concepts |
 |---|---|
-| Programming | Python, Java, SQL |
+| Programming | Python, SQL |
 | Networking | TCP/IP, OSI model, DNS, HTTP/HTTPS, routing and switching |
 | Security | Nmap, Wireshark, Metasploit, Burp Suite, OWASP concepts |
 | Systems | Linux, Kali Linux, Windows |
