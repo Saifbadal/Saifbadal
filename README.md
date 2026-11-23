@@ -59,6 +59,12 @@ A responsive personal website presenting my background, technical interests, and
 - **M.Tech – Cybersecurity**, REVA University — Pursuing
 - **B.E. – Computer Science and Engineering**, City Engineering College, Bengaluru — 2025
 
+## GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saifbadal/Saifbadal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</p>
+
 ## Connect
 
 - **GitHub:** [@Saifbadal](https://github.com/Saifbadal)
